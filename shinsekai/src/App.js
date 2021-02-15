@@ -7,7 +7,6 @@ import {themeLight, themeDark} from './configs/theme';
 import './App.css';
 
 function App() {
-  console.log('hello here')
   const [currentTheme, setCurrentTheme] = useState(themeLight,themeDark)
   useEffect(() => {
     store.subscribe(() => {
