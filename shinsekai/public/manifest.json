@@ -1,0 +1,26 @@
+{
+  "short_name": "Shinsekaï",
+  "name": "Shinsekaï a PWA group project",
+  "description":"This pwa helps users to organize their manga lectures",
+  "icons": [
+    {
+      "src": "zorro-logo.ico",
+      "sizes": "256x134",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "zorro-wanted2.png",
+      "type": "image/png",
+      "sizes": "180x260"
+    },
+    {
+      "src": "zorro-cutting.png",
+      "type": "image/png",
+      "sizes": "510x8900"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00b894",
+  "background_color": "#ffffff"
+}
